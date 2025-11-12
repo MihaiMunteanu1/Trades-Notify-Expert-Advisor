@@ -75,7 +75,7 @@ TradeNotifyEA v3 is a comprehensive MetaTrader 5 Expert Advisor that provides re
 ```mql5
 input string TELEGRAM_BOT_TOKEN = "your_bot_token_here";
 input string TELEGRAM_CHAT_ID = "your_chat_id_here";
-input string TELEGRAM_TOPIC_ID = "39"; // Optional: for thread-based groups
+input string TELEGRAM_TOPIC_ID = "your_channel_id_here"; 
 ```
 
 ### Message Customization
