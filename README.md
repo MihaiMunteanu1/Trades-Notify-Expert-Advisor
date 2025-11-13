@@ -291,15 +291,6 @@ Date,Total_Trades,Total_Pips,Profit_Percentage
 Copyright 2025, MetaQuotes Ltd.  
 https://www.mql5.com
 
-## Version History
-
-**v3.0 (Current)**
-- Added comprehensive statistics system
-- Implemented CSV export functionality
-- Added automatic screenshot cleanup
-- Enhanced pending order tracking
-- Improved SL/TP modification detection
-
 ---
 
 **Author Notes**: This EA is designed for traders who value transparency and detailed record-keeping. All notifications are sent in real-time, ensuring you never miss a trading opportunity or position change, even when away from your terminal.# Trades-Notify-EA
